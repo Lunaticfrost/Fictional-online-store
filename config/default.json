@@ -1,0 +1,4 @@
+{
+    "dbURI": "mongodb://127.0.0.1:27017/OnlineStore",
+    "jwtsecret": "a40a5cf8dcc5a68ef8795d4359f47f7b1a60a89ee12f50f5d7c339034aa11530fb5513c9eec2c6812503043bbe8e995ac811254878b974e3ff541dcf9e47cb30"
+}
